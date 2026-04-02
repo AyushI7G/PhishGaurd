@@ -1,3 +1,3 @@
 # PhishGaurd
 
-A phishing detecting app, which identifies
+A phishing detecting app, which identifies spam URLs and fake websites
