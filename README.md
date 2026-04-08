@@ -5,13 +5,6 @@ A phishing detecting app, which identifies spam URLs and fake websites.
 THE UNIQUE PART in our Application is that it is adaptive, when the user mark the flagged email as safe email/not spam it learns from the new updated data. With advanced trained data it checks for the legitimte score for emails and websites.
 
 
-agf jgfj agjf afa fjf jaj f
- ak fakf a fak fak aa fk
-ahf ahfk ahkf akakfa a fk 
-hd akhfkahf kahfkafk ahk 
-a djkfakj fkjkaj fakfak 
- fkafka ah ahka kfk 
-fkjf kahfk hakf kk 
-akjfh akf kak 
- ajfja fahfkj hak
- fsd fkjskfsdkfk
+
+
+fa fjahf akj fhakfh
