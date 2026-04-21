@@ -7,16 +7,4 @@ xgboost
 flask
 joblib
 
-ahf lasfl jaflk 
-sadf af
-safasf asf
-adf a faaaf
-a fafaf
-dawf af
-j kjkl j
-f adff f a
- af sgs f 
- safsa s
- afafs a 
-a fasfs
- af fafa
+
