@@ -1,6 +1,6 @@
-# 🛡️ PhishGuard 2.0
+# 🛡️ PhishGuard 
 
-PhishGuard 2.0 is a machine learning-based web application designed to detect and prevent phishing attacks. It analyzes URLs and email-related features to determine whether a link is legitimate or malicious.
+PhishGuard is a machine learning-based web application designed to detect and prevent phishing attacks. It analyzes URLs and email-related features to determine whether a link is legitimate or malicious.
 
 ---
 
