@@ -60,8 +60,6 @@ cd PhishGaurd2.0
 pip install -r requirements.txt
 ```
 
-*(Create a `requirements.txt` if not included)*
-
 ---
 
 ### 3. Train the model
